@@ -75,11 +75,11 @@
 <!-- Languages & Tools -->
 <h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,gitlab,react,nextjs,tailwind,vite,aws" /><br>
-  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,notion,figma,pycharm,postman" /><br>
-  <img src="https://skillicons.dev/icons?i=bash,ubuntu,windows,fedora,docker,redis,sqlite,mysql,pgadmin" /><br>
-  <img src="https://skillicons.dev/icons?i=python,javascript,htmx,pwsh,dotnet,flask,fastapi,jupyter" /><br>
-  <img src="https://skillicons.dev/icons?i=opencv,sklearn,claude,gemini,chatgpt,groq,cohere,linkedin" /><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,gitlab,react,tailwind,vite,aws,linux,prisma,pytorch,supabase" /><br>
+  <img src="https://skillicons.dev/icons?i=tensorflow,vercel,postgres,html,css,vscode,github,git,notion,figma" /><br>
+  <img src="https://skillicons.dev/icons?i=pycharm,postman,bash,ubuntu,windows,fedora,docker,redis,sqlite" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql,pgadmin,python,javascript,htmx,pwsh,dotnet,flask,fastapi" /><br>
+  <img src="https://skillicons.dev/icons?i=jupyter,opencv,sklearn,claude,gemini,chatgpt,groq,cohere,linkedin" /><br>
 </div>
 
 <br>
@@ -172,7 +172,7 @@
 </p> -->
 
 <!-- Ending -->
-<img src="https://github.com/chanreach-ouch/Wall-E-Desk/blob/main/Pixel-Art/green.gif" alt="Wall-E GIF" style="width:auto; height:auto" />
+<img src="green.gif" alt="Wall-E GIF" style="width:auto; height:auto" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 
