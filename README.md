@@ -56,7 +56,6 @@
 
 <!-- About Me -->
 <h3 align="left">About Me</h3>
-<br>
 <p>
   I'm a third-year <strong>Data Science & AI Engineering</strong> student with hands-on experience building end-to-end ML & DL pipelines. My work spans the entire AI lifecycle—from data collection and preprocessing, to model training, evaluation, and explainability.
 </p>
@@ -73,11 +72,9 @@
 </div>
 
 <br>
-<br>
 
 <!-- Languages & Tools -->
 <h3 align="center">Languages & Tools I Have Placed My Hands On</h3>
-<br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis,aws,docker,linux,ubuntu,windows" /><br>
   <img src="https://skillicons.dev/icons?i=python,dotnet,flask,fastapi,bash,pwsh,gitlab,github,git,vercel" /><br>
@@ -90,7 +87,6 @@
 
 <!-- GitHub Status -->
 <h3 align="center">Statistics</h3>
-<br>
 <div align="center">
   <img align="top" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=chanreach-ouch&layout=compact&langs_count=8&theme=dark&bg_color=0d1117&border_radius=8" alt="Top Languages" />
   <img align="top" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=chanreach-ouch&count_private=true&show_icons=true&theme=dark&bg_color=0d1117&rank_icon=github&border_radius=8" alt="GitHub Stats" />
@@ -105,7 +101,6 @@
 <!-- Best Repositories -->
 <div align="center">
   <h3>Interesting Repositories</h3>
-  <br>
   <p align="center">
 <a href="https://github.com/chanreach-ouch/AI-Engineer">
   <img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=chanreach-ouch&repo=AI-Engineer&theme=dark&bg_color=0d1117&border_radius=8" /></a>
