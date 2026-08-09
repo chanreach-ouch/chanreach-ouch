@@ -50,7 +50,7 @@
   
 </div>
 
-<img align="left" alt="coding-gif" width="400" src="https://github.com/chanreach-ouch/chanreach-ouch/blob/main/transparent_gitgif.gif" />
+<img align="left" alt="coding-gif" width="400" src="ascii_art_white.png" />
 
 <!-- About Me -->
 <h3 align="left">💫 About Me</h3>
