@@ -97,18 +97,10 @@
 <div align="center">
   <h3>⭐️ Interesting Repositories</h3>
   <p align="center">
-<a href="https://github.com/chanreach-ouch/Wall-E-Desk">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=chanreach-ouch&repo=Wall-E-Desk" /></a>
-<a href="https://github.com/chanreach-ouch/Void-OSE">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=chanreach-ouch&repo=Void-OSE" /></a>
-<a href="https://github.com/chanreach-ouch/IDE-Cosmo">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=chanreach-ouch&repo=IDE-Cosmo" /></a>
-<a href="https://github.com/chanreach-ouch/Books-Of-Knowledge">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=chanreach-ouch&repo=Books-Of-Knowledge" /></a>
-<a href="https://github.com/chanreach-ouch/PixelVault">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=chanreach-ouch&repo=PixelVault" /></a>
-<a href="https://github.com/chanreach-ouch/My-Projects">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=chanreach-ouch&repo=My-Projects" /></a>
+<a href="https://github.com/chanreach-ouch/AI-Engineer">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=chanreach-ouch&repo=AI-Engineer" /></a>
+<a href="https://github.com/chanreach-ouch/Flora-market">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=chanreach-ouch&repo=Flora-market" /></a>
   </p>
 </div>
 
