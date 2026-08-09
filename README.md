@@ -53,7 +53,7 @@
 <img align="left" alt="coding-gif" width="400" src="ascii_art_white.png" />
 
 <!-- About Me -->
-<h2 align="left">About Me</h2>
+<h3 align="left">About Me</h3>
 <br>
 <p>
   I'm a third-year <strong>Data Science & AI Engineering</strong> student with hands-on experience building end-to-end ML & DL pipelines. My work spans the entire AI lifecycle—from data collection and preprocessing, to model training, evaluation, and explainability.
@@ -72,11 +72,9 @@
 
 <br>
 <br>
-<hr>
-<br>
 
 <!-- Languages & Tools -->
-<h2 align="center">Languages & Tools</h2>
+<h3 align="center">Languages & Tools I Have Placed My Hands On</h3>
 <br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis,aws,docker,linux,ubuntu,windows" /><br>
@@ -87,11 +85,9 @@
 
 <br>
 <br>
-<hr>
-<br>
 
 <!-- GitHub Status -->
-<h2 align="center">Statistics</h2>
+<h3 align="center">Statistics</h3>
 <br>
 <div align="center">
   <img height="195" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=chanreach-ouch&layout=compact&langs_count=6&theme=dark&bg_color=0d1117&border_radius=8" alt="Top Languages" />
@@ -102,13 +98,9 @@
 
 
 
-<br>
-<hr>
-<br>
-
 <!-- Best Repositories -->
 <div align="center">
-  <h2>Interesting Repositories</h2>
+  <h3>Interesting Repositories</h3>
   <br>
   <p align="center">
 <a href="https://github.com/chanreach-ouch/AI-Engineer">
@@ -119,12 +111,8 @@
 </div>
 
 
-<br>
-<hr>
-<br>
-
 <!-- Tech Stack -->
-<h2 align="center">Tech Stack</h2>
+<h3 align="center">Tech Stack</h3>
 <br>
 <div align="center">
 
