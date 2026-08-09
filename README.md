@@ -84,10 +84,12 @@
 <br>
 
 <!-- GitHub Status -->
-<h3 align="center">🌱 GitHub Status</h3>
+<h3 align="center">📊 Statistics</h3>
 <div align="center">
-  <img width="398" src="https://github-readme-stats.vercel.app/api?username=chanreach-ouch&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" /> 
-  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=chanreach-ouch&theme=nord&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanreach-ouch&langs_count=6&theme=nord&border_radius=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chanreach-ouch&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=chanreach-ouch&theme=nord&hide_border=false" alt="GitHub Streak" />
 </div>
 
 
