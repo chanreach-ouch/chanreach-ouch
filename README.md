@@ -86,10 +86,10 @@
 <!-- GitHub Status -->
 <h3 align="center">📊 Statistics</h3>
 <div align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=chanreach-ouch&layout=compact&langs_count=6&theme=tokyonight&bg_color=000000&border_radius=8" alt="Top Languages" />
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=chanreach-ouch&count_private=true&show_icons=true&theme=tokyonight&bg_color=000000&rank_icon=github&border_radius=8" alt="GitHub Stats" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=chanreach-ouch&langs_count=6&theme=dark&bg_color=000000&border_radius=8" alt="Top Languages" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=chanreach-ouch&count_private=true&show_icons=true&theme=dark&bg_color=000000&rank_icon=github&border_radius=8" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chanreach-ouch&theme=tokyonight&background=000000&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chanreach-ouch&theme=dark&background=000000&ring=DD5522&fire=DD5522&currStreakNum=DD5522&hide_border=false" alt="GitHub Streak" />
 </div>
 
 
