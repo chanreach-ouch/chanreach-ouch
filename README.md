@@ -103,9 +103,9 @@
   <h3>Interesting Repositories</h3>
   <p align="center">
 <a href="https://github.com/chanreach-ouch/AI-Engineer">
-  <img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=chanreach-ouch&repo=AI-Engineer&theme=dark&bg_color=0d1117&hide_border=true&cache_seconds=1" /></a>
+  <img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=chanreach-ouch&repo=AI-Engineer&theme=dark&bg_color=0d1117&hide_border=false&border_color=30363d&border_radius=0&cache_seconds=1" /></a>
 <a href="https://github.com/chanreach-ouch/Flora-market">
-  <img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=chanreach-ouch&repo=Flora-market&theme=dark&bg_color=0d1117&hide_border=true&cache_seconds=1" /></a>
+  <img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=chanreach-ouch&repo=Flora-market&theme=dark&bg_color=0d1117&hide_border=false&border_color=30363d&border_radius=0&cache_seconds=1" /></a>
   </p>
 </div>
 
