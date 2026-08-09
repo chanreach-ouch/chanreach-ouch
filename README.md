@@ -25,7 +25,7 @@
 </a>
 
 <!-- Greeting -->
-<!--<h2 align="center">❂ I am Joshua Thadi</h2>-->
+<!--<h2 align="center">I am Joshua Thadi</h2>-->
 
 
 
@@ -53,7 +53,8 @@
 <img align="left" alt="coding-gif" width="400" src="ascii_art_white.png" />
 
 <!-- About Me -->
-<h3 align="left">About Me</h3>
+<h2 align="left">About Me</h2>
+<br>
 <p>
   I'm a third-year <strong>Data Science & AI Engineering</strong> student with hands-on experience building end-to-end ML & DL pipelines. My work spans the entire AI lifecycle—from data collection and preprocessing, to model training, evaluation, and explainability.
 </p>
@@ -61,7 +62,7 @@
   I'm comfortable working across the full AI engineering stack, including backend APIs, databases, and modern LLM-based systems. As a strong communicator, I thrive in collaborative environments and am actively seeking opportunities to contribute to impactful, real-world AI projects.
 </p>
 
-<h3 align="left">🧲 Drop me a line:</h3>
+
 <div align="left">
   <a href="mailto:chanreach.ouch@gmail.com"><img width="35px" src="https://github.com/chanreach-ouch/chanreach-ouch/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/chanreach-ouch-1207a73b6" target="_blank"><img width="35px" src="https://github.com/chanreach-ouch/chanreach-ouch/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
@@ -71,9 +72,12 @@
 
 <br>
 <br>
+<hr>
+<br>
 
 <!-- Languages & Tools -->
-<h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
+<h2 align="center">Languages & Tools</h2>
+<br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis,aws,docker,linux,ubuntu,windows" /><br>
   <img src="https://skillicons.dev/icons?i=python,dotnet,flask,fastapi,bash,pwsh,gitlab,github,git,vercel" /><br>
@@ -82,21 +86,30 @@
 </div>
 
 <br>
+<br>
+<hr>
+<br>
 
 <!-- GitHub Status -->
-<h3 align="center">📊 Statistics</h3>
+<h2 align="center">Statistics</h2>
+<br>
 <div align="center">
-  <img height="195" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=chanreach-ouch&layout=compact&langs_count=6&theme=dark&bg_color=000000&border_radius=8" alt="Top Languages" />
-  <img height="195" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=chanreach-ouch&count_private=true&show_icons=true&theme=dark&bg_color=000000&rank_icon=github&border_radius=8" alt="GitHub Stats" />
+  <img height="195" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=chanreach-ouch&layout=compact&langs_count=6&theme=dark&bg_color=0d1117&border_radius=8" alt="Top Languages" />
+  <img height="195" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=chanreach-ouch&count_private=true&show_icons=true&theme=dark&bg_color=0d1117&rank_icon=github&border_radius=8" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chanreach-ouch&theme=dark&background=000000&ring=DD5522&fire=DD5522&currStreakNum=DD5522&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chanreach-ouch&theme=dark&background=0d1117&ring=DD5522&fire=DD5522&currStreakNum=DD5522&hide_border=false" alt="GitHub Streak" />
 </div>
 
 
 
+<br>
+<hr>
+<br>
+
 <!-- Best Repositories -->
 <div align="center">
-  <h3>⭐️ Interesting Repositories</h3>
+  <h2>Interesting Repositories</h2>
+  <br>
   <p align="center">
 <a href="https://github.com/chanreach-ouch/AI-Engineer">
   <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=chanreach-ouch&repo=AI-Engineer" /></a>
@@ -106,8 +119,13 @@
 </div>
 
 
+<br>
+<hr>
+<br>
+
 <!-- Tech Stack -->
-<h3 align="center">💻 Tech Stack</h3>
+<h2 align="center">Tech Stack</h2>
+<br>
 <div align="center">
 
 <!-- Languages -->
@@ -156,7 +174,7 @@
 
 
 <!-- Support -->
-<!-- <h3 align="center">💰 Support Me</h3>
+<!-- <h3 align="center">Support Me</h3>
 <p align="center">
   <a href="https://www.buymeacoffee.com/chanreach-ouch">
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Buy Me A Coffee" />
@@ -169,5 +187,5 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 
 <p align="center">
-  ⚠️ This README is uniquely designed by <strong>@chanreach-ouch.</strong>
+  This README is uniquely designed by <strong>@chanreach-ouch.</strong>
 </p>
