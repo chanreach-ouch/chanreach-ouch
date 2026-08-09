@@ -53,12 +53,12 @@
 <img align="left" alt="coding-gif" width="400" src="ascii_art_white.png" />
 
 <!-- About Me -->
-<h3 align="left">💫 About Me</h3>
+<h3 align="left">About Me</h3>
 <p>
-  🎓 I'm a third-year <strong>Data Science & AI Engineering</strong> student.<br>
-  🔭 I have hands-on experience building end-to-end ML & DL pipelines—from data collection to model explainability.<br>
-  💻 Comfortable across the entire AI engineering stack, including backend APIs, databases, and LLM-based systems.<br>
-  🤝 Strong communicator actively seeking opportunities to contribute to impactful, real-world AI projects.<br>
+  - I'm a third-year <strong>Data Science & AI Engineering</strong> student.<br>
+  - I have hands-on experience building end-to-end ML & DL pipelines—from data collection to model explainability.<br>
+  - Comfortable across the entire AI engineering stack, including backend APIs, databases, and LLM-based systems.<br>
+  - Strong communicator actively seeking opportunities to contribute to impactful, real-world AI projects.<br>
 </p>
 
 <h3 align="left">🧲 Drop me a line:</h3>
