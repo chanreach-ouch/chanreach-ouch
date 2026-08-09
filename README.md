@@ -94,6 +94,8 @@
   <img height="195" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=chanreach-ouch&count_private=true&show_icons=true&theme=dark&bg_color=0d1117&rank_icon=github&border_radius=8" alt="GitHub Stats" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chanreach-ouch&theme=dark&background=0d1117&ring=DD5522&fire=DD5522&currStreakNum=DD5522&hide_border=false" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chanreach-ouch&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=false&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
 
