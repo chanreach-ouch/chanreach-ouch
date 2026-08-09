@@ -75,10 +75,11 @@
 <!-- Languages & Tools -->
 <h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind" /><br>
-  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
-  <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,gitlab,react,nextjs,tailwind,vite,aws" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,notion,figma,pycharm,postman" /><br>
+  <img src="https://skillicons.dev/icons?i=bash,ubuntu,windows,fedora,docker,redis,sqlite,mysql,pgadmin" /><br>
+  <img src="https://skillicons.dev/icons?i=python,javascript,htmx,pwsh,dotnet,flask,fastapi,jupyter" /><br>
+  <img src="https://skillicons.dev/icons?i=opencv,sklearn,claude,gemini,chatgpt,groq,cohere,linkedin" /><br>
 </div>
 
 <br>
@@ -163,12 +164,12 @@
 
 
 <!-- Support -->
-<h3 align="center">💰 Support Me</h3>
+<!-- <h3 align="center">💰 Support Me</h3>
 <p align="center">
   <a href="https://www.buymeacoffee.com/chanreach-ouch">
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Buy Me A Coffee" />
   </a>
-</p>
+</p> -->
 
 <!-- Ending -->
 <img src="https://github.com/chanreach-ouch/Wall-E-Desk/blob/main/Pixel-Art/green.gif" alt="Wall-E GIF" style="width:auto; height:auto" />
