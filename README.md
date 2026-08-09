@@ -75,11 +75,10 @@
 <!-- Languages & Tools -->
 <h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,gitlab,react,tailwind,vite,aws,linux,prisma,pytorch,supabase" /><br>
-  <img src="https://skillicons.dev/icons?i=tensorflow,vercel,postgres,html,css,vscode,github,git,notion,figma" /><br>
-  <img src="https://skillicons.dev/icons?i=pycharm,postman,bash,ubuntu,windows,fedora,docker,redis,sqlite" /><br>
-  <img src="https://skillicons.dev/icons?i=mysql,pgadmin,python,javascript,htmx,pwsh,dotnet,flask,fastapi" /><br>
-  <img src="https://skillicons.dev/icons?i=jupyter,opencv,sklearn,claude,gemini,chatgpt,groq,cohere,linkedin" /><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis,aws,docker,linux,ubuntu,windows" /><br>
+  <img src="https://skillicons.dev/icons?i=python,dotnet,flask,fastapi,bash,pwsh,gitlab,github,git,vercel" /><br>
+  <img src="https://skillicons.dev/icons?i=javascript,react,tailwind,html,css,vite,htmx,notion,figma,linkedin" /><br>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,vscode,pycharm,postman,prisma,supabase" /><br>
 </div>
 
 <br>
