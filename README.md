@@ -67,7 +67,7 @@
   <a href="mailto:chanreach.ouch@gmail.com"><img width="35px" src="https://github.com/chanreach-ouch/chanreach-ouch/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/chanreach-ouch-1207a73b6" target="_blank"><img width="35px" src="https://github.com/chanreach-ouch/chanreach-ouch/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
   <a href="#"><img width="35px" src="https://github.com/chanreach-ouch/chanreach-ouch/blob/main/icons/spotify-icon.png" alt="Spotify" /></a>
-  <a href="#"><img width="37px" src="https://github.com/chanreach-ouch/chanreach-ouch/blob/main/icons/youtube-red1.png" alt="YouTube" /></a>
+  <a href="https://youtu.be/SbYXkOAoZpI" target="_blank"><img width="37px" src="https://github.com/chanreach-ouch/chanreach-ouch/blob/main/icons/youtube-red1.png" alt="YouTube" /></a>
 </div>
 
 <br>
@@ -106,9 +106,9 @@
   <br>
   <p align="center">
 <a href="https://github.com/chanreach-ouch/AI-Engineer">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=chanreach-ouch&repo=AI-Engineer" /></a>
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=chanreach-ouch&repo=AI-Engineer&theme=dark&bg_color=0d1117&border_radius=8" /></a>
 <a href="https://github.com/chanreach-ouch/Flora-market">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=chanreach-ouch&repo=Flora-market" /></a>
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=chanreach-ouch&repo=Flora-market&theme=dark&bg_color=0d1117&border_radius=8" /></a>
   </p>
 </div>
 
