@@ -55,10 +55,10 @@
 <!-- About Me -->
 <h3 align="left">About Me</h3>
 <p>
-  - I'm a third-year <strong>Data Science & AI Engineering</strong> student.<br>
-  - I have hands-on experience building end-to-end ML & DL pipelines—from data collection to model explainability.<br>
-  - Comfortable across the entire AI engineering stack, including backend APIs, databases, and LLM-based systems.<br>
-  - Strong communicator actively seeking opportunities to contribute to impactful, real-world AI projects.<br>
+  I'm a third-year <strong>Data Science & AI Engineering</strong> student with hands-on experience building end-to-end ML & DL pipelines. My work spans the entire AI lifecycle—from data collection and preprocessing, to model training, evaluation, and explainability.
+</p>
+<p>
+  I'm comfortable working across the full AI engineering stack, including backend APIs, databases, and modern LLM-based systems. As a strong communicator, I thrive in collaborative environments and am actively seeking opportunities to contribute to impactful, real-world AI projects.
 </p>
 
 <h3 align="left">🧲 Drop me a line:</h3>
