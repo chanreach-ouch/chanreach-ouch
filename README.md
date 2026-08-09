@@ -24,8 +24,10 @@
   <img width="100%" src="meow.gif" alt="Meow GIF"/>
 </a>
 
-<!-- Greeting -->
-<!--<h2 align="center">I am Joshua Thadi</h2>-->
+<!-- Wordmark Title -->
+<p align="center">
+  <img alt="chanreach-ouch wordmark" src="https://gitskins.com/api/section/wordmark?username=chanreach-ouch&theme=aurora&v=sync-intro-4&style=terminal&mode=dark" />
+</p>
 
 
 
