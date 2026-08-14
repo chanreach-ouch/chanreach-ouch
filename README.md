@@ -52,7 +52,7 @@
   
 </div>
 
-<img align="left" alt="coding-gif" width="400" src="ascii_art2_transparent.png" />
+<img align="left" alt="coding-gif" width="400" src="ascii_art_transparent.png" />
 
 <!-- About Me -->
 <h3 align="left">About Me</h3>
